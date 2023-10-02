@@ -1,5 +1,5 @@
 ## [Django Project MMORPG Board](http://127.0.0.1:8000/board/posts/)
-## [Skillfactory](https://skillfactory.ru) FPW homework
+## Skillfactory Homework Module D13
 
 Web-application example to show [Django framework](https://docs.djangoproject.com/en/4.1/intro/install/) possibilities.
 <hr>
@@ -49,5 +49,4 @@ Web-application example to show [Django framework](https://docs.djangoproject.co
 
 *Так же в разделе News админпанели доступно действие Рассылка новостей - всем пользователям ресурса отправляется рассылка с выбранными новостями. Реализована именно ручная рассылка, т.к. в ТЗ указано 'иметь возможность', а не конкретный алгоритм.*
 
-<br><br>
-Star ⭐️⭐️⭐️⭐️️⭐️ my project if you like it or think it is useful
+
